@@ -1,0 +1,19 @@
+# Ignore the build directory
+**/dist
+
+# Ignore the node_modules directory
+**/node_modules
+
+# Ignore the .expo directory
+**/.expo
+**/expo-env.d.ts
+
+# Ignore project
+**/dark-mode-toggle
+**/audio_player_app
+**/blueskyClone
+
+**/assets
+**/*.json
+
+
